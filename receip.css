@@ -1,5 +1,5 @@
 body {
-  font-family: "Young serif";
+  font-family: "Outfit";
   background-color: #f3e5d7;
 }
 .card {
@@ -20,10 +20,9 @@ h1 {
   margin: 0px 0px 24px 0px;
   font-size: 40px;
   font-weight: 300;
+  font-family: "Young serif";
 }
 .span-v-i {
-  padding: 5px;
-  font-family: "Outfit";
   font-weight: 600;
   padding: 8px;
   margin-right: 24px;
@@ -48,12 +47,10 @@ table {
 .gray-text {
   color: #5f564d;
   font-weight: 300;
-  font-family: "Outfit";
 }
 .brown-text {
   color: #854632;
   font-weight: 700;
-  font-family: "Outfit";
 }
 .move-td {
   width: 50%;
@@ -87,14 +84,12 @@ li {
   margin-top: 40px;
 }
 h3 {
-  font-family: "Outfit";
   color: #7a284e;
   font-weight: 600;
   font-size: 20px;
   margin: 0px;
 }
 ul > li {
-  font-family: "Outfit";
   font-weight: 700;
   color: #5f564d;
 }
